@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Animals</title>
+        <meta charset="utf-8">
+        <style>
+        h2 {
+        color: rgb(150, 117, 148);
+        }
+        body {
+            background-color: rgb(189, 245, 159);
+        }
+
+        </style>
+    </head>
+    <body>
+
+        <h1>Najpiękniejsze rasy psów</h1>
+
+        <h2>Lista ras:</h2>
+
+        <ol>
+            <li><a href="#szpic">Szpic miniaturowy</a></li>
+            <li><a href="#maltańczyk">Maltańczyk</a></li>
+            <li><a href="#owczarek">Biały owczarek szwajcarski</a></li>
+            <li><a href="#Samoyed">Samoyed</a></li>
+            <li><a href="#husky">Husky</a></li>
+            <li><a href="#buldog">Buldog francuski</a></li>
+        </ol>
+
+        <h2 id="szpic">Szpic miniaturowy</h2>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Pomeranian_orange-sable_Coco.jpg" width="260" height="240" style="float: right">
+        <ul>
+            <li><strong>wysokość:</strong> max. 22 cm</li>
+            <li><strong>masa:</strong> max. 3 kg</li>
+            <li><strong>długość życia:</strong> 13-15 lat</li>
+        </ul>
+
+                    <h3>Charakter</h3>
+
+        <p>Szpic miniaturowy pomeranian ma wesołe usposobienie i żywy temperament. Jest ruchliwy, ciekawski, wszędobylski i chętny do zabawy. Bardzo przywiązany do opiekuna, wrażliwy i oddany, nie lubi zostawać na długo sam; najchętniej stale towarzyszyłby właścicielowi. Bardzo źle czuje się pozostawiony na długie godziny w pustym domu. Serdeczny i życzliwy wobec wszystkich domowników, zazwyczaj ma jednak wśród nich swojego faworyta i to na jego kolanach lubi oddawać się wyjątkowym pieszczotom.</p>
+        <h3>Historia</h3>
+<p>Szpice są uznawane za jedną z najstarszych form psa domowego. Wywodzą się prawdopodobnie od żyjącego około 6 tys. lat temu, prastarego psa torfowego (canis familiaris palustris), którego szczątki zachowały się w postaci skamielin. Najstarszy wizerunek przedstawiający psa w tym typie znajduje się na attyckim dzbanie do wina pochodzącym z ok. 400 r. p.n.e.Ludność pierwotna używała szpiców przede wszystkim do stróżowania i polowania, ale w czasach niedostatku mogły być również zjadane.Grupa długowłosych szpiców była znana w Niemczech już ok. 1700 r.</p>
+<h3>Ciekawostki</h3>
+<p>Pomeraniany to jedne z najdroższych psów ras miniaturowych. Cena szczeniaka po utytułowanych rodzicach może sięgać aż 10 tysięcy złotych! Zawrotne kwoty biorą się z faktu, że rasa ta jest wyjątkowo trudna w hodowli. Mioty pomeranianów są bardzo małe, a poród może nieść ze sobą wiele komplikacji. Nie warto jednak decydować się na psa z pseudohodowli lub podejrzanego stowarzyszenia i narażać się na ogromne koszty leczenia psiaków z poważnymi wadami genetycznymi.</p>
+
+    <p><em>Źródło: <a href="https://www.psy.pl/rasa/szpic-miniaturowy-pomeranian/">Wszystko o szpicu miniaturowym</a></em></p>
+    <h2 id="maltańczyk">Maltańczyk</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Mighty_Maltese.jpg"  width="260" height="240" style="float: right">
+    <ul>
+        <li><strong>wysokość:</strong> 21 - 25 cm (pies)<br>
+20 - 23 cm (suki)</li>
+        <li><strong>masa:</strong> od 3 do 5 kg</li>
+        <li><strong>długość życia:</strong> od 14-16 lat</li>
+        </ul>
+                    <h3>Charakter</h3>
+        <p>Maltańczyki to mądre i żywotne psy o śnieżnobiałej szacie. Są to doskonałe psy do towarzystwa dla właścicieli, którzy lubią mieć swojego pupila zawsze w pobliżu, a pielęgnacja jedwabistego futra będzie sprawiała im przyjemność. Maltańczyki równoważą swój niewielki rozmiar ogromną dawką pozytywnej energii. Są mądre, łagodne, skore do zabawy i szybko uczą się sztuczek. Są wprawdzie czujne, jednak nie mają przy tym skłonności do ujadania.</p> 
+        <h3>Historia</h3>
+        <p>Korzenie tej rasy sięgają czasów antycznych. Jedna z teorii mówi, że przodkowie Maltańczyków pochodzą z Egiptu, skąd były rozprowadzane w dalsze strony przez kupców i handlarzy. Archeolodzy znaleźli w grobowcu faraona Ramzesa II, który zmarł w 1225 r. p.n.e., małe statuetki psów, przypominające wyglądem dzisiejszego Maltańczyka. Ilustracje na wazach z około 700 lat później przedstawiają małe psy, obok których odczytać można wyraz „Melitae”. Zarówno przeszłości, jak i pochodzenia tego określenia nie da się wyjaśnić: Przez długi czas wychodzono z założenia, że odnosi się ono do wyspy Malta lub jednej z dalmatyńskich wysp Mljet, dziś przypuszcza się, że pochodzi z semickiego słowa „màlat”, które oznacza „port” i stanowiło człon nazw wielu miejscowości. Pewne jest natomiast, że przodkowie Maltańczyków byli znani i cenieni jako psy towarzyskie już w antyku. Przez wieki psy te były pupilami dam dworu i szlachciców po cesarzy i królów. Do szczęśliwych właścicielek Maltańczyków zaliczają się na przykład brytyjska królowa Wiktoria, francuskie królowa Maria Antonina czy cesarzowa Józefina Bonaparte. Po dziś dzień Maltańczyki są bardzo popularnymi pupilami, doskonale odnajdującymi się w miastach.</p>
+        <h3>Ciekawostki</h3>
+        <p>Maltańczyk był ulubieńcem między innymi królowej Szkocji Marii Stuart i królowej Elżbiety I. Niegdyś wierzono, że maltańczyk ma uzdrowicielską moc. Położony w nogach łóżka biały psiak miał podczas snu leczyć reumatyzm.
+
+Julian Ursyn Niemcewicz napisał ku czci maltańczyka „Odę do Kasperka”. Rasa ta występuje też często na obrazach sławnych malarzy.</p>
+        <p><em>Źródło: <a href="https://www.zooplus.pl/magazyn/psy/rasy-psow/maltanczyk">Wszystko o maltańczykach</a></em></p>
+         <h2 id="owczarek">Biały owczarek szwajcarski</h2>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Bia%C5%82y_owczarek_szwajcarski_h8.jpg" width="260" height="240" style="float: right">
+         <ul>
+             <li><strong>wysokość:</strong> 60-66 cm (psy)<br>
+55-61 cm (suki)</li>
+             <li><strong>masa:</strong> 30-40 kg (psy)<br>
+25-35 kg (suki)</li>
+             <li><strong>długość życia:</strong> 11-12 lat</li>
+         </ul>
+     <h3>Charakter</h3>
+         <p>Biały owczarek szwajcarski wywodzi się od owczarków niemieckich. Tak jak swój kuzyn jest psem inteligentnym, pewnym siebie i chętnym do współpracy z człowiekiem, bardzo szybko się uczy nawet trudnych komend i zadań, przez co idealnie nadaje się do przeróżnych sportów. Od owczarka niemieckiego jest jednak dużo łagodniejszy i spokojniejszy, gdyż miał być w założeniu psem rodzinnym, a nie obronnym.</p>
+         <h3>Historia</h3>
+         <p>Białe owczarki pochodzą od owczarków niemieckich – początkowo w tej rasie rejestrowano i wystawiano także białe osobniki, których umaszczenie spowodowane jest genem recesywnym. Żeby urodziły się białe szczenięta, oboje rodzice muszą przenosić ten gen. Jego nosicielem był Horand von Grafrath – pierwszy oficjalnie zarejestrowany owczarek niemiecki, który miał białego dziadka, psa o imieniu Greif. Tak więc umaszczenie to pojawiało się od początku i nie uznawano go za gorsze. Pod koniec XIX wieku na dworze Habsburgów próbowano nawet wyprowadzić czystą linię białych owczarków, które miały dobrze się komponować z białymi sukniami królowych i siwymi końmi.</p>
+         <h3>Ciekawostki</h3>
+         <p>W latach 20. XX wieku białe owczarki trafiły do USA i Kanady. Rasa została spopularyzowana najpierw właśnie w tych krajach – stąd biały owczarek szwajcarski funkcjonuje często jako biały owczarek amerykańsko-kanadyjski. Dopiero około roku 1970 pierwsze egzemplarze zostały importowane do Szwajcarii.</p>
+         <p><em>Źródło: <a href="https://www.psy.pl/rasa/bialy-owczarek-szwajcarski/">Wszystko o owczarku szwajcarskim</a></em></p>
+         <h2 id="Samoyed">Samoyed</h2>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Arild.jpg" width="260" height="240" style="float: right">
+          <ul>
+            <li><strong>wysokość:</strong>	57 ± 3 cm (psy)<br>
+53 ± 3 cm (suki)</li>
+            <li><strong>masa:</strong>25-30 kg</li>
+             <li><strong>długość życia:</strong> od 9 do 11 lat
+                 </li>
+</ul>
+         <h3>Charakter:</h3>
+        <p>Samojeda nazywa się uśmiechniętym psem północy. Kąciki jego warg są lekko uniesione, co wraz z ciemnym pigmentem i nieco skośnym osadzeniem oczu daje charakterystyczny wyraz pyska. To zwierzak przyjacielski, który potrzebuje bliskiego kontaktu z właścicielem. Źle znosi przymus fizyczny, niesprawiedliwe traktowanie i ostry ton głosu. Może się wtedy stać lękliwy, nieposłuszny lub nabrać skłonności do niszczenia. Niewątpliwą zaletą samojeda jest to, że nawet jeśli popełnimy błędy wychowawcze, to raczej nie spowodujemy tym u niego agresywnego zachowania.
+Przedstawiciel tej rasy na ogół nie ucieka z podwórka, jednak posesja, na której przebywa, powinna być dobrze ogrodzona, bo z uwagi na wygląd i usposobienie często pada on łupem złodziei. Samojed – choć czujny – nie sprawdzi się w roli stróża, jest łagodny w stosunku do ludzi i nie wzbudza w intruzach respektu.
+</p>
+<h3>Historia</h3>
+        <p>Samojed należy do ras pierwotnych. Wyhodowali go Nieńcy (zwani także Samojedami – stąd nazwa rasy) zamieszkujący tereny północnej Rosji i Syberii między rzekami Ob i Jenisej. Już przed kilkunastoma tysiącami lat plemiona koczownicze wykorzystywały czworonogi w typie szpiców do polowania, pilnowania dobytku oraz jako psy pasterskie i zaprzęgowe. Za sprawą mieszkania w szałasie z człowiekiem samojed stał się najbardziej rodzinny z wszystkich ras północnych. Wydaje się, że selekcja hodowlana odbywała się bez domieszek obcej krwi, a współczesne czworonogi wywodzą się w prostej linii od psów towarzyszących Samojedom podczas ich wędrówek.</p>
+        <h3>Ciekawostki</h3>
+        <p>W Chinach mieszka samojed o imieniu Potato, który słynie z tego, że… jest dobry z matematyki. Właściciel nauczył Potato dodawać, odejmować, mnożyć i dzielić, a pies wyszczekuje prawidłowe wyniki. Podobno ten samojed zapamiętuje nawet numery telefonów!</p>
+        <p><em> Źródło:<a href="https://www.psy.pl/rasa/samojed/">Wszystko o samojedach</a></em></p>
+        <h2 id="husky">Husky</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Huskiesatrest.jpg" width="260" height="240" style="float: right">
+        <ul>
+            <li><strong>wysokość:</strong> psów 53,5 -59,5 cm;<br>
+            suk 51-56 cm</li>
+            <li><strong>masa: </strong>psów 20-27 kg,<br>suk 16-22 kg</li>
+             <li><strong>długość życia: </strong>13-15 lat</li>
+        </ul>
+
+                    <h3>Charakter</h3>
+
+        <p>Siberian husky to pies o dużym temperamencie, żywiołowy, radosny i przyjacielski. Jest bardzo czujny, ale łagodne usposobienie sprawia, że nie nadaje się na stróża. Potrafi się szybko przystosować do nowych warunków. Jako pies o silnym charakterze może zdominować właściciela, jeśli mu się na to pozwoli. Świetnie dogaduje się z dziećmi, jednak z uwagi na jego ruchliwość i spontaniczność nie należy zostawiać go z maluchami bez nadzoru. Husky nie lubią samotności, dlatego najlepiej się czują, stale towarzysząc człowiekowi lub przebywając wśród innych psów (zwłaszcza własnej rasy). Zachowały wiele cech typowych dla wilczych przodków. Częściej wyją, niż szczekają, a w ich stadzie panuje ścisła hierarchia, co prowadzi czasem do walk dominacyjnych. Grupa przejawia też silne zachowania terytorialne i może być groźna dla intruzów. Ciekawość, spryt i duża sprawność fizyczna sprawiają, że husky jest mistrzem ucieczek. Jeśli trzymamy go na zewnątrz, ogród musi otaczać wysokie ogrodzenie (dwumetrowy płot może nie być wystarczającą przeszkodą dla przedstawiciela tej rasy) na solidnej podmurówce. Nawet największy ogród nie zastąpi jednak regularnych spacerów i treningów.</p>
+        <h3>Historia</h3>
+        <p>Siberian husky to rasa pierwotna, w której powstanie człowiek ingerował tylko w niewielkim stopniu. Jej przodków należy szukać wśród psów, które od tysięcy lat zamieszkiwały tereny wschodniej Syberii, rejon rzeki Kołymy, półwyspu Kamczatka czy okolice Cieśniny Beringa i Morza Arktycznego. Ludzie tam żyjący zdobywali pożywienie podczas polowań, w czym pomagały im psy. Każdy ród hodował zwierzęta w innym typie w zależności od potrzeb, warunków klimatycznych czy ukształtowania terenu. Prekursorami hodowli psów zaprzęgowych byli Czukcze, uważani za najstarszą grupę etniczną zamieszkującą Syberię. Słowo „husky” w ich języku znaczy „ochrypły” i dawniej określano tak wszystkie te czworonogi – obecnie zaś jedynie siberian husky. Kiedy 3 tys. lat temu klimat się ochłodził, Czukcze zaczęli wykorzystywać czworonogi do ciągnięcia sań. Mieszkali w osadach w głębi lądu, pokonywali więc coraz większe odległości, aby zdobyć pożywienie. Ich psy musiały być silne, wytrzymałe, odporne na trudne warunki pogodowe i tanie w utrzymaniu.</p>
+        <h3>Ciekawostki</h3>
+        <p>Husky syberyjskie znane są z tego, że potrafią… wspinać się po ogrodzeniach i uciekać. Dlatego raczej nie powinny przebywać same na podwórku, a jedynie w towarzystwie opiekuna, który zapewnia ciekawe zajęcia.</p>
+<p><em> Źródło: <a href="https://www.psy.pl/rasa/husky-syberyjski/">Wszystko o husky</a></em></p>
+<h2 id="buldog">Buldog francuski</h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Confucius_De_la_Parure.jpg" width="260" height="240" style="float: right">
+<ul>
+    <li><strong>wielkość:</strong>27–35 cm (psy)<br>
+24–32 cm (suki)</li>
+    <li><strong>masa: </strong> od 8 do 14kg</li>
+     <li><strong>długość życia:</strong> 10-15 lat</li>
+</ul>
+     <h3>Charakter</h3>
+
+        <p>Buldog francuski jest wesoły, ciekawski i towarzyski. Mocno przywiązuje się do właściciela i na każdym kroku okazuje mu swoje oddanie. Wymaga zainteresowania i bliskiego kontaktu z rodziną, dlatego nie nadaje się do życia w odosobnieniu. Ignorowany potrafi o sobie przypomnieć, przez co czasami bywa absorbujący.
+
+Buldożek jest doskonałym kompanem dla dzieci. Łagodny i tolerancyjny, ochoczo bierze udział we wszystkich zabawach. Należy też do niewielu psów, które chętnie się podporządkują dziesięciolatkowi i wykonają jego polecenia.</p>
+<h3>Historia</h3>
+ <p>Przodków tego niewielkiego psa niektórzy badacze szukają wśród starożytnych molosów z Epiru (zachodnia Grecja) i Cesarstwa Rzymskiego, średniowiecznych alano czy psów dogowatych z Ameryki Południowej. Podczas wykopalisk w Peru natrafiono na naczynia z epoki prekolumbijskiej ozdobione wizerunkiem niewielkiego czworonoga do złudzenia przypominającego współczesnego buldożka. Z kolei w 1625 r. w Hiszpanii wybito medal z głową psa bardzo podobną do głowy buldoga francuskiego. Jedna z najprawdopodobniejszych teorii głosi, że współczesny przedstawiciel rasy wywodzi się od dawnego buldoga angielskiego używanego na Wyspach Brytyjskich do walk psów i szczucia byków. Gdy w 1802 r. angielski parlament zakazał krwawych rozrywek, psy bojowe straciły swoje zajęcie i stały się towarzyszami robotników. Ponieważ nie stać ich było na trzymanie dużych zwierząt, wyhodowali miniaturową wersję buldogów o znacznie łagodniejszym charakterze.</p>
+ <h3>Ciekawostki</h3>
+ <p>Z buldogami francuskimi wiążą się dwa problemy, o których nie każdy wie. Po pierwsze, decydując się na buldożka, trzeba się liczyć ze „śmierdzącymi” problemami. Bąki, które puszczają te czworonogi, potrafią nieźle zatruć powietrze… Po drugie – ich chrumkanie, zabawne dla właścicieli, jest odbierane przez inne psy jako warczenie, co powoduje konflikty między psami. Dlatego buldożki najlepiej dogadują się ze sobą, czyli z osobnikami tej samej rasy, bo nikt lepiej niż one same nie rozumie, że owo chrumkanie to nic złego.</p>
+ <p><em> Źródło: <a href="https://www.psy.pl/rasa/buldog-francuski/">Wszystko o buldogach francuskich</a></em></p>
+         </body>
+</html>
